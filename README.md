@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshPonia
 - 👀 I’m interested in ...Programing like C#,python,Java,html
-- 🌱 I’m currently learning ...C#,python
+- 🌱 I’m currently learning ... DSA with JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://github.com/HarshPonia
 
