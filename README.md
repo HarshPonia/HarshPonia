@@ -1,3 +1,4 @@
+![This is an image](https://c.tenor.com/HGrwySPzAR4AAAAC/well-hello.gif)
 - 👋 Hi, I’m @HarshPonia
 - 👀 I’m interested in ...Programing like C#,python,Java,html
 - 🌱 I’m currently learning ... DSA with JAVA
