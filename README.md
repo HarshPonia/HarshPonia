@@ -4,7 +4,7 @@
 
 ![Banner](https://img.shields.io/badge/Backend%20Dev%20%26%20AI-🚀-brightgreen) [![Profile Views](https://komarev.com/ghpvc/?username=HarshPonia&color=brightgreen)](https://github.com/HarshPonia)
 
-Software Engineer at Capgemini | Java/Spring Boot | AWS | AI Enthusiast | Building scalable microservices & cloud solutions from Pimpri, India 🇮🇳
+Software Engineer at TCS | Java/Spring Boot | AWS | AI Enthusiast | Building scalable microservices & cloud solutions from Pimpri, India 🇮🇳
 
 </div>
 
