@@ -12,7 +12,7 @@ Software Engineer at TCS | Java/Spring Boot | AWS | AI Enthusiast | Building sca
 - 🔭 Working on backend projects with **Java, Spring Boot, REST APIs, Snowflake/DB2**
 - 🌱 Learning **Advanced AWS, DevOps, Generative AI**
 - 💻 Tools: **Postman, Jira, Bitbucket, Notion**
-- 📫 Reach me: harshponia@example.com (update with yours)
+- 📫 Reach me: harshponia@gmail.com 
 - ⚡ Fun fact: Passionate about optimizing resumes & interview prep for tech roles!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=HarshPonia&show_icons=true&theme=radical&hide_border=true)[web:12]
