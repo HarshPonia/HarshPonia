@@ -15,8 +15,8 @@
 - 🌱 Learning **AWS Advanced, DevOps, Generative AI**
 - 💻 Tech Stack: **Snowflake, Db2, Postman, Jira, Bitbucket, Notion**
 - 📊 23 Repos | Backend-focused projects ready for collaboration
-- 📫 Email: harshponia@example.com (update yours)
-- ⚡ Fun Fact: Optimizing code & resumes from Pimpri, Maharashtra!
+- 📫 Email: harshponia9@gmail.com
+- ⚡ Fun Fact: Optimizing code!
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600" alt="Code Wave GIF" />
