@@ -11,7 +11,7 @@
 ### 🚀 About Me
 <img align="right" src="https://media.giphy.com/media/W6pms0t6Q9qvu/giphy.gif" width="300" alt="Backend Coding GIF">
 
-- 🔭 Currently at **Capgemini**: Building microservices with **Java, Spring Boot, REST APIs**
+- 🔭 Currently at **TCS**: Building microservices with **Java, Spring Boot, REST APIs**
 - 🌱 Learning **AWS Advanced, DevOps, Generative AI**
 - 💻 Tech Stack: **Snowflake, Db2, Postman, Jira, Bitbucket, Notion**
 - 📊 23 Repos | Backend-focused projects ready for collaboration
